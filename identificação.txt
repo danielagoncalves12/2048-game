@@ -1,0 +1,3 @@
+numero=a48579
+amigos=a48590,a48575
+fim
